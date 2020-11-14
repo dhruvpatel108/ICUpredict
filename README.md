@@ -15,4 +15,4 @@ The goal of this work is to predict the the need of intensive care and mechanica
 
 
 ## Usage
-De-identified patient data is provided in a pickle file (`./data/`) and the code for data processing, modeling and post-processing is provided as a jupyter notebook (`model_icu.ipnyb`).
+De-identified patient data is provided in a pickle file (`./data/raw_features_DDupdated_212.pkl`) and the code for data processing, modeling and post-processing is provided as a jupyter notebook (`model_icu.ipnyb`).
