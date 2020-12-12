@@ -1,5 +1,5 @@
 # ICUpredict
-Official implementation of Machine Learning Based Predictors for COVID-19 Disease Severity work. Here we provide the data and the code for our model.
+Official implementation of [Machine Learning Based Predictors for COVID-19 Disease Severity](https://www.researchsquare.com/article/rs-108301/v1) work. Here we provide the data and the code for our model.
 
 ## Objective
 The goal of this work is to predict the the need of intensive care and mechanical ventilation for COVID-19 patients from socio-demographic, clinical, and blood-profile data available at the time of initial admission. De-identified patient data was colleced from 3 different hopitals in Los Angeles county in an IRB-approved study and 6 different machine learning algorithms were trained using this data.
